@@ -6,4 +6,5 @@ A drop down menu inspired by https://dribbble.com/shots/2286361-Hamburger-Menu-A
 
 ##Thanks##
 Awesome design by [Gal Shir](https://dribbble.com/galshir)
+
 Awesome menu code class by [NilStack](https://github.com/NilStack)
